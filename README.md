@@ -10,12 +10,12 @@ Buenas Antes de Dejar el .txt  con el diccionario  explico como se llego al resu
 
 Las claves  por default al contratar el servicio De Fibertel Argentina son:
 
-1)Es de 10(diez) caracteres
-2)Todos los caractereces son NÚMERICOS  
-3)De esos 10(diez) caracteres  los 3(tres) primeros digitos son prefijos
-  a)004
-  b)014
-  c)044
+1) Es de 10(diez) caracteres
+2) Todos los caractereces son NÚMERICOS  
+3) De esos 10(diez) caracteres  los 3(tres) primeros digitos son prefijos
+  a) 004
+  b) 014
+  c) 044
    
    ((El prefijo varia si usted es mujer, hombre  o es usted una empresa))
   
